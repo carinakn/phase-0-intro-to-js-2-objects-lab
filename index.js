@@ -1,4 +1,4 @@
-let employee = {
+const employee = {
     name: "John Doe",
     streetAddress: "123 Main Street"
 };
